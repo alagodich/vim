@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/anatoly/Development/NorthernLight'
-let g:netrw_dirhist_2='/Users/anatoly/Development/NorthernLight/intel/client/src'
-let g:netrw_dirhist_3='/Users/anatoly/Development/NorthernLight/intel/client/src/components'
-let g:netrw_dirhist_4='/Users/anatoly/Development/NorthernLight/intel/client/src/components/vendor-select'
